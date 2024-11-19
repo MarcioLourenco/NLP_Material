@@ -1,0 +1,10 @@
+virt
+.venv/
+.venv
+model_tensorflow
+data
+.elasticbeanstalk
+.elasticbeanstalk/
+.git
+.git/
+venv/

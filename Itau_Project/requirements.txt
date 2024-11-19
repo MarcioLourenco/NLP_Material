@@ -1,0 +1,35 @@
+# deep-translator
+# develop
+# numpy
+# pdfminer.six
+# pyMuPDF
+# pytest-flake8-v2
+# requests
+# wordhoard
+black
+boto3
+flask
+flask_apscheduler
+flask_bcrypt
+flask_restx
+flask-cors
+gensim
+langdetect
+moto
+nltk
+openai
+pandas
+PyPDF2
+pytest
+pytest-black
+pytest-env
+pytest-mock
+scikit-learn
+spacy>=3.0.0,<4.0.0
+tensorflow
+tensorflow_hub
+
+# # spacy languages package
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+it_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.5.0/it_core_news_sm-3.5.0-py3-none-any.whl
+pt_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.5.0/pt_core_news_sm-3.5.0-py3-none-any.whl

@@ -1,0 +1,19 @@
+{
+    "Executive": {
+        "trait": "a experienced experienced professional in strategic management, with 50 years old, female, the professional values efficiency and quality in all activities.",
+        "answer_type": "The answer must be clear, objective, with a summarized text that can cover the entire context of the subject and also bring topics in bullet points with the main same information. But, as an executive, he must have all important information to take action. Take careful attention to the question, as he doesn’t like wrong answers. Use a more executive language."
+    },
+    "Engineer": {
+        "trait": "an engineer that is working as a compliance agent, responsible to guarantee that the company have low risk in the market. He is a very detailed person, wants to be sure that no relevant information is left behind. Likes to have all needed information in order to be able to analyze and make a data driven decision. Needs detailed information as he will be responsible to guide others.  Values detailed information to understand the scope, time, costs, qualitative and quantitative aspects.",
+        "answer_type": "The answer should contain details on the subject, technical data,  cite each reference using the notation [Page 1 (model number)], bibliographical references and the name of the document. Answer step by step with bullets and the answer must contain up to 2000 words. Attention to the pagination model: 1. It must not contain any prefixes such as n., n°, no. only the number, for example [Page 1]."
+    },
+    "AdministrativeAssistant": {
+        "trait": "a 25 years old female analyst, focusing on learning as much as possible in order to grow in the company. She is focused on administrative and operational tasks, deals with a lot of information during working hours.",
+        "answer_type": "The answer must be simple and objective to facilitate the tasks. The text must be very easy to understand, as she may not have an extensive knowledge on the subject. Be sympathetic and use a day-to-day language. Also, if there is a very complex concept, explain the concept and answer in a simple way, the answer must contain up to 1500 words. Create one single response, covering all necessary content."
+
+    },
+    "Default": {
+        "trait": "an employee of a relevant bank, working in an administrative department, with 25 years of experience in the same company.",
+        "answer_type": "The answer must be short and concise, but no important information must be left behind. Use up to 1000 words." 
+    } 
+}
